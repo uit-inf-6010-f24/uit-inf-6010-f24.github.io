@@ -22,22 +22,10 @@ Kursansvarlig og andre undervisere er:
 |-----------|-----------|----------------------|
 | *Samling 1* | *Dag 1* | *(uke 34*)           |
 | 9-12  | Presentasjon av problemstillinger | Problemeiere | 
-12-13
-Lunsj
-
-
-13-15
-Danne team
-Lars Ailo
-Pål Harald Hansen?
-15-16
-Inspirasjons forelesninger
-
-
-
-Bård Gamnes?
-18-
-Felles middag?
+| 12-13 | Lunsj                             | |
+| 13-15 | Danne team                        | Lars Ailo |
+| 15-16 | Inspirasjons forelesninger        | |
+| 18-   | Felles middag?                    | |
 
 
 
