@@ -20,7 +20,7 @@ Kursansvarlig og andre undervisere er:
 
 | Dato    	| Innhold		| Foreleser/ ansvarlig |
 |-----------|-----------|----------------------|
-| *Samling 1* | *Dag 1* | *(uke 34*)           |
+| *Samling 1* *Dag 1* *(uke 34*)         | |  |
 | 9-12  | Presentasjon av problemstillinger | Problemeiere | 
 | 12-13 | Lunsj                             | |
 | 13-15 | Danne team                        | Lars Ailo |
