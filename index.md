@@ -65,20 +65,16 @@ Kursansvarlig og andre undervisere er:
 
 # Arberidsoppgaver mellom samlingene
 
-* Hjemmearbeid 1 *
+Hjemmearbeid 1*
 1. Les/ se undervisnings elementer
 2. Jobb i team og lag en ugly prototype for deres løsning
 3. Lag presentasjon for samling 2
 
-* Hjemmearbeid 2 *
+*Hjemmearbeid 2*
 1. Les/ se undervisnings elementer
 2. Jobb i team og lag en prototype for deres løsning
 3. Dokumenter løsningen i en mappe, inkludert refleksjon
 4. Lag presentasjon for eksamen
-
-
-
-
 
 ## Pensum og støttelitteratur
 
