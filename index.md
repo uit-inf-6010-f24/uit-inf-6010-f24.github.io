@@ -20,13 +20,13 @@ Kursansvarlig og andre undervisere er:
 
 | Dato    	| Innhold		| Foreleser/ ansvarlig |
 |-----------|-----------|----------------------|
-| *(uke 34)* | *Samling 1, Dag 1*           | - |
+| *Uke 34* | *Samling 1, Dag 1*           | - |
 | 9-12  | Presentasjon av problemstillinger | Problemeiere | 
 | 12-13 | Lunsj                             | - |
 | 13-15 | Danne team                        | Lars Ailo |
 | 15-16 | Inspirasjons forelesninger        | |
 | 18-   | Felles middag?                    | - |
-| *(uke 34)* | *Samling 1, Dag 2*           | - |
+| *Uke 34* | *Samling 1, Dag 2*           | - |
 | 9:00-9:30   | Forelesning: Hva er entreprenørskap | |
 | 9:30-10:00  | Forelesning: Design thinking        | |
 | 10:00-10:30 | Forelesning: Hva er prosjekt        | |
@@ -43,7 +43,7 @@ Kursansvarlig og andre undervisere er:
 | Uke 39 | Prosjektgruppemøte | Mentor/ faglærer |
 | Uke 40 | Prosjektgruppemøte | Mentor/ faglærer |
 | Uke 41 | Prosjektgruppemøte | Mentor/ faglærer |
-| *(uke 42)* | *Samling 2*           | - |
+| *Uke 42* | *Samling 2*           | - |
 | 9-12  | Presentasjon av ugly prototyper   | Alle grupper |
 | 12-13 | Lunsj                             | - |
 | 13:00-13:30 | Forelesning: Prosjektorganisering   | |
@@ -57,7 +57,7 @@ Kursansvarlig og andre undervisere er:
 | Uke 47 | Prosjektgruppemøte | Mentor/ faglærer |
 | Uke 48 | Prosjektgruppemøte | Mentor/ faglærer |
 | Uke 49 | Eksamensforberedelse | - |
-| *(uke 50)* | *Samling 3 og eksamen*  | - |
+| *Uke 50* | *Samling 3 og eksamen*  | - |
 | 9-12  | Sluttarbeid                  | Med mentorer |
 | 12-13 | Lunsj                        | - |
 | 13-16 | Eksamen                      | - |
