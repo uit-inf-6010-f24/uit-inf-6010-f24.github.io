@@ -20,12 +20,24 @@ Kursansvarlig og andre undervisere er:
 
 | Dato    	| Innhold		| Foreleser/ ansvarlig |
 |-----------|-----------|----------------------|
-| *Samling 1* *Dag 1* *(uke 34*)         | |  |
+| *Samling 1* *Dag 1* *(uke 34*)         |  | |
 | 9-12  | Presentasjon av problemstillinger | Problemeiere | 
 | 12-13 | Lunsj                             | |
 | 13-15 | Danne team                        | Lars Ailo |
 | 15-16 | Inspirasjons forelesninger        | |
 | 18-   | Felles middag?                    | |
+| *Samling 1* *Dag 2* *(uke 34*)         |  | |
+| 9:00-9:30   | Forelesning: Hva er entreprenørskap | |
+| 9:30-10:00  | Forelesning: Design thinking        | |
+| 10:00-10:30 | Forelesning: Hva er prosjekt        | |
+| 10:30-11:00 | Forelesning: Prosjektorganisering   | |
+| 11:00-11:30 | Forelesning: Hvordan bygge team     | |
+| 11:30-12:00 | Forelesning: Hvordan jobbe remote   | |
+| 12-13 | Lunsj                                | |
+| 13-15 | Jobbing med prosjektene              | |
+| 15-16 | Presentasjon av prosjektene i plenum | |
+
+
 
 
 
