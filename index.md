@@ -36,13 +36,13 @@ Kursansvarlig og andre undervisere er:
 | 12-13 | Lunsj                                | - |
 | 13-15 | Jobbing med prosjektene              | Alle grupper |
 | 15-16 | Presentasjon av prosjektene i plenum | Alle grupper |
-| Uke 35 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 36 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 37 | Prosjektgruppemøte | Mentor/ faglærer |
+| Uke 35 | Prosjektgruppemøte | Faglærer |
+| Uke 36 | Prosjektgruppemøte | Faglærer |
+| Uke 37 | Prosjektgruppemøte | Faglærer |
 | Uke 38 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 39 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 40 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 41 | Prosjektgruppemøte | Mentor/ faglærer |
+| Uke 39 | Prosjektgruppemøte | Faglærer |
+| Uke 40 | Prosjektgruppemøte | Faglærer |
+| Uke 41 | Prosjektgruppemøte | Faglærer |
 | *Uke 42* | *Samling 2*           | - |
 | 9-12  | Presentasjon av ugly prototyper   | Alle grupper |
 | 12-13 | Lunsj                             | - |
@@ -50,12 +50,12 @@ Kursansvarlig og andre undervisere er:
 | 13:30-14:00 | Forelesning: Hvordan bygge team     | |
 | 14:00-14:00 | Forelesning: Hvordan jobbe remote   | |
 | 14:30-16:00 | Refleksjon om prosessen så langt    | Alle grupper |
-| Uke 43 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 44 | Prosjektgruppemøte | Mentor/ faglærer |
+| Uke 43 | Prosjektgruppemøte | Faglærer |
+| Uke 44 | Prosjektgruppemøte | Faglærer |
 | Uke 45 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 46 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 47 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 48 | Prosjektgruppemøte | Mentor/ faglærer |
+| Uke 46 | Prosjektgruppemøte | Faglærer |
+| Uke 47 | Prosjektgruppemøte | Faglærer |
+| Uke 48 | Prosjektgruppemøte | Faglærer |
 | Uke 49 | Eksamensforberedelse | - |
 | *Uke 50* | *Samling 3 og eksamen*  | - |
 | 9-12  | Sluttarbeid                  | Med mentorer |
