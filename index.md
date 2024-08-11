@@ -43,7 +43,7 @@ Kursansvarlig og andre undervisere er:
 | Uke 39 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 40 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 41 | Prosjektgruppemøte | Faglærer | Studenter |
-| *18.10.24* | *Samling 2*           | - | - |
+| *17.10.24* | *Samling 2*           | - | - |
 | 9-12  | Town hall 2   | Phil and Dan (online) | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                             | - | - |
 | 13:00-16:00 | ?  | | |
