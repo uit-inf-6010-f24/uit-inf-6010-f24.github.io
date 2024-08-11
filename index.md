@@ -14,17 +14,23 @@ Det blir 3 heldags samlinger i Kirkenes. Endelige datoer er ikke fastsatt enda.
 Det er obligatorisk å delta på minst 75% av samlingene.
 
 Kursansvarlig og andre undervisere er:
-- Lars Ailo Bongo <lars.ailo.bongo@uit.no>
+- Lars Ailo Bongo (UiT) <lars.ailo.bongo@uit.no>
+- Daniil Pokidko and Philippe Saade (Hopscotch Canvas Ab)
+- Ildri Jørgensen (Ungt Entreprenørskap)
 
 ## Undervisningsplan
 
-| Dato    	| Innhold		| Foreleser/ ansvarlig |
-|-----------|-----------|----------------------|
-| *Uke 34* | *Samling 1, Dag 1*           | - |
-| 9-12  | Presentasjon av problemstillinger | Problemeiere | 
-| 12-13 | Lunsj                             | - |
-| 13-15 | Danne team                        | Lars Ailo |
-| 15-16 | Inspirasjons forelesninger        | |
+| Dato    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
+|-----------|-----------|----------------------|-----------|
+| *20.08.24* | *Samling 1, Dag 1*           | - |
+| 9:00-9:15  | Introduksjon til kurset      | Lars Ailo | Alle |
+| 9:15-10:45 | Generering av utfordringer, valg av utfordringer og teambygging | Phil and Dan | Studenter, mentorer, problemeiere |
+| 10:45-11:00 | Kaffe                       | - | Alle |
+| 11:00-12:15 | Hopscotch Canvas            | Phil and Dan | Studenter |
+| 12:15-13:00 | Lunsj                       | - | Alle |
+| 13:00-14:00 | Kobling av deltakere og utarbeidelse av handlingsplaner         | Phil and Dan | Studenter |
+| 14:00-15:00 | Kaffe / forberedning av presentasjoner                          | - | Alle |
+| 15:00-16:30 | Town Hall 1 - Presentasjon av handlingsplaner - Spørsmål og svar | Phil and Dan | Studenter, mentorer, problemeiere |
 | 18-   | Felles middag?                    | - |
 | *Uke 34* | *Samling 1, Dag 2*           | - |
 | 9:00-9:30   | Forelesning: Hva er entreprenørskap | |
