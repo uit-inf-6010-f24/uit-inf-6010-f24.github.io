@@ -22,7 +22,7 @@ Kursansvarlig og andre undervisere er:
 
 | Dato    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
 |-----------|-----------|----------------------|-----------|
-| *20.08.24* | *Samling 1, Dag 1*           | - |
+| *20.08.24* | *Samling 1, Dag 1*           | - | - |
 | 9:00-9:15  | Introduksjon til kurset      | Lars Ailo | Alle |
 | 9:15-10:45 | Generering av utfordringer, valg av utfordringer og teambygging | Phil and Dan | Studenter, mentorer, problemeiere |
 | 10:45-11:00 | Kaffe                       | - | Alle |
@@ -32,55 +32,37 @@ Kursansvarlig og andre undervisere er:
 | 14:00-15:00 | Kaffe / forberedning av presentasjoner                          | - | Alle |
 | 15:00-16:30 | Town Hall 1 - Presentasjon av handlingsplaner - Spørsmål og svar | Phil and Dan | Studenter, mentorer, problemeiere |
 | 18-   | Felles middag?                    | - |
-| *Uke 34* | *Samling 1, Dag 2*           | - |
-| 9:00-9:30   | Forelesning: Hva er entreprenørskap | |
-| 9:30-10:00  | Forelesning: Design thinking        | |
-| 10:00-10:30 | Forelesning: Hva er prosjekt        | |
-| 10:30-11:00 | Forelesning: Prosjektorganisering   | |
-| 11:00-11:30 | Forelesning: Hvordan bygge team     | |
-| 11:30-12:00 | Forelesning: Hvordan jobbe remote   | |
-| 12-13 | Lunsj                                | - |
-| 13-15 | Jobbing med prosjektene              | Alle grupper |
-| 15-16 | Presentasjon av prosjektene i plenum | Alle grupper |
-| Uke 35 | Prosjektgruppemøte | Faglærer |
-| Uke 36 | Prosjektgruppemøte | Faglærer |
-| Uke 37 | Prosjektgruppemøte | Faglærer |
-| Uke 38 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 39 | Prosjektgruppemøte | Faglærer |
-| Uke 40 | Prosjektgruppemøte | Faglærer |
-| Uke 41 | Prosjektgruppemøte | Faglærer |
-| *Uke 42* | *Samling 2*           | - |
-| 9-12  | Presentasjon av ugly prototyper   | Alle grupper |
-| 12-13 | Lunsj                             | - |
-| 13:00-13:30 | Forelesning: Prosjektorganisering   | |
-| 13:30-14:00 | Forelesning: Hvordan bygge team     | |
-| 14:00-14:00 | Forelesning: Hvordan jobbe remote   | |
-| 14:30-16:00 | Refleksjon om prosessen så langt    | Alle grupper |
-| Uke 43 | Prosjektgruppemøte | Faglærer |
-| Uke 44 | Prosjektgruppemøte | Faglærer |
-| Uke 45 | Prosjektgruppemøte | Mentor/ faglærer |
-| Uke 46 | Prosjektgruppemøte | Faglærer |
-| Uke 47 | Prosjektgruppemøte | Faglærer |
-| Uke 48 | Prosjektgruppemøte | Faglærer |
-| Uke 49 | Eksamensforberedelse | - |
-| *Uke 50* | *Samling 3 og eksamen*  | - |
-| 9-12  | Sluttarbeid                  | Med mentorer |
+| *21.08.24* | *Samling 1, Dag 2*           | - | - |
+| 9:00-   | Start | | |
+| 12-13 | Lunsj                                | - | Alle |
+| -16 | Slutt | Alle grupper |
+| Uke 35 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 36 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 37 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 38 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
+| Uke 39 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 40 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 41 | Prosjektgruppemøte | Faglærer | Studenter |
+| *18.10.24* | *Samling 2*           | - | - |
+| 9-12  | Town hall 2   | Phil and Dan (online) | Studenter, mentorer, problemeiere |
+| 12-13 | Lunsj                             | - | - |
+| 13:00-16:00 | ?  | | |
+| Uke 43 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 44 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 45 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
+| Uke 46 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 47 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 48 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 49 | Eksamensforberedelse | - | Studenter |
+| *Uke 50* | *Samling 3 og eksamen*  | - | - |
+| 9-12  | Town hall 3                | Phil and Dan (online) | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                        | - |
 | 13-16 | Eksamen                      | - |
 | 18-   | Avslutningsmiddag            | - |
 
 # Arberidsoppgaver mellom samlingene
 
-Hjemmearbeid 1*
-1. Les/ se undervisnings elementer
-2. Jobb i team og lag en ugly prototype for deres løsning
-3. Lag presentasjon for samling 2
-
-*Hjemmearbeid 2*
-1. Les/ se undervisnings elementer
-2. Jobb i team og lag en prototype for deres løsning
-3. Dokumenter løsningen i en mappe, inkludert refleksjon
-4. Lag presentasjon for eksamen
+TBA
 
 ## Pensum og støttelitteratur
 
