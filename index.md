@@ -6,9 +6,9 @@ layout: default
 
 Kursbeskrivelse er i [emnekatalogen](https://uit.no/utdanning/emner/emne/841390/inf-6010), inkludert opptakskrav, søknadsfrist, og beskrivelse av hvordan det søkes om opptak. 
 
-Det blir 3 heldags samlinger i Kirkenes. Endelige datoer er ikke fastsatt enda.
+Det blir 3 heldags samlinger i Kirkenes. 
 1. 20 og 21 August.
-2. 18. Oktober.
+2. 17. Oktober.
 3. 1 dag, inkludert eksamen, i perioden 9-13 Desember.
 
 Det er obligatorisk å delta på minst 75% av samlingene.
