@@ -31,9 +31,9 @@ Kursansvarlig og andre undervisere er:
 | 13:00-14:00 | Kobling av deltakere og utarbeidelse av handlingsplaner         | Phil and Dan | Studenter |
 | 14:00-15:00 | Kaffe / forberedning av presentasjoner                          | - | Alle |
 | 15:00-16:30 | Town Hall 1 - Presentasjon av handlingsplaner - Spørsmål og svar | Phil and Dan | Studenter, mentorer, problemeiere |
-| 18-   | Felles middag?                    | - |
+| 18-   | Felles middag?                    | - | Alle |
 | *21.08.24* | *Samling 1, Dag 2*           | - | - |
-| 9:00-   | Start | | |
+| 9:00-   | Start | - | - |
 | 12-13 | Lunsj                                | - | Alle |
 | -16 | Slutt | Alle grupper |
 | Uke 35 | Prosjektgruppemøte | Faglærer | Studenter |
@@ -46,7 +46,7 @@ Kursansvarlig og andre undervisere er:
 | *17.10.24* | *Samling 2*           | - | - |
 | 9-12  | Town hall 2   | Phil and Dan (online) | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                             | - | - |
-| 13:00-16:00 | ?  | | |
+| 13:00-16:00 | ?  | - | - |
 | Uke 43 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 44 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 45 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
@@ -56,9 +56,9 @@ Kursansvarlig og andre undervisere er:
 | Uke 49 | Eksamensforberedelse | - | Studenter |
 | *Uke 50* | *Samling 3 og eksamen*  | - | - |
 | 9-12  | Town hall 3                | Phil and Dan (online) | Studenter, mentorer, problemeiere |
-| 12-13 | Lunsj                        | - |
-| 13-16 | Eksamen                      | - |
-| 18-   | Avslutningsmiddag            | - |
+| 12-13 | Lunsj                        | - | - |
+| 13-16 | Eksamen                      | - | - |
+| 18-   | Avslutningsmiddag            | - | - |
 
 # Arberidsoppgaver mellom samlingene
 
