@@ -8,7 +8,7 @@ Kursbeskrivelse er i [emnekatalogen](https://uit.no/utdanning/emner/emne/841390/
 
 Det blir 3 heldags samlinger i Kirkenes. 
 1. 20 og 21 August.
-2. 17. Oktober.
+2. 17 Oktober.
 3. 1 dag, inkludert eksamen, i perioden 9-13 Desember.
 
 Det er obligatorisk å delta på minst 75% av samlingene.
