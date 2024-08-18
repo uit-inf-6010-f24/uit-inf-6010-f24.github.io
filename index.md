@@ -33,9 +33,12 @@ Kursansvarlig og andre undervisere er:
 | 15:00-16:30 | Town Hall 1 - Presentasjon av handlingsplaner - Spørsmål og svar | Phil and Dan | Studenter, mentorer, problemeiere |
 | 18-   | Felles middag?                    | - | Alle |
 | *21.08.24* | *Samling 1, Dag 2*           | - | - |
-| 9:00-   | Start | - | - |
-| 12-13 | Lunsj                                | - | Alle |
-| -16 | Slutt | Alle grupper |
+| 8:15-9:00   |  Oppsummering av dag 1 og veien videre. Innføring i kreativitet med kreative oppgaver | Ildri | Studenter |
+| 9:00-9:15   | Kaffe                       | - | Alle |
+| 9:15-11:30  | Dypdykk / jobbe videre med oppdraget og problemstillingen | Ildri | Studenter |
+| 11:30-12:15 | Lunsj                                | - | Alle |
+| 12:15-15:30 | Idéjakt og testing| Ildri | Studenter |
+| 15:30-16:00 | Oppsummering av dagen og veien videre frem mot samling 2 | Ildri | Studenter |
 | Uke 35 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 36 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 37 | Prosjektgruppemøte | Faglærer | Studenter |
