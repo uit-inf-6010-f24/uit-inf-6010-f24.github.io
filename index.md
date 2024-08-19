@@ -57,7 +57,7 @@ Kursansvarlig og andre undervisere er:
 | Uke 47 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 48 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 49 | Eksamensforberedelse | - | Studenter |
-| *Uke 50* | *Samling 3 og eksamen*  | - | - |
+| *09.12.24* | *Samling 3 og eksamen*  | - | - |
 | 9-12  | Town hall 3                | Phil and Dan (online) | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                        | - | - |
 | 13-16 | Eksamen                      | - | - |
