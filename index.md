@@ -55,7 +55,7 @@ Kursansvarlig og andre undervisere er:
 | Uke 45 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
 | Uke 46 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 47 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 48 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 48 | Eksamensforberedelse | Faglærer | Studenter |
 | Uke 49 | Eksamensforberedelse | - | Studenter |
 | *09.12.24* | *Samling 3 og eksamen*  | - | - |
 | 9-12  | Town hall 3                | Phil and Dan (online) | Studenter, mentorer, problemeiere |
