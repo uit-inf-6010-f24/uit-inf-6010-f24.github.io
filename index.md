@@ -11,6 +11,8 @@ Det blir 3 heldags samlinger i Kirkenes.
 2. 17 Oktober.
 3. 1 dag, inkludert eksamen, i perioden 9-13 Desember.
 
+Frist for innlevering av mappe er 22. November.
+
 Det er obligatorisk å delta på minst 75% av samlingene.
 
 Kursansvarlig og andre undervisere er:
@@ -45,7 +47,7 @@ Kursansvarlig og andre undervisere er:
 | Uke 38 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
 | Uke 39 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 40 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 41 | Prosjektgruppemøte | Faglærer | Studenter |
+| Uke 41 | Forberedelse til samling 2 (ingen prosjektgruppemøte)| Faglærer | Studenter |
 | *17.10.24* | *Samling 2*           | - | - |
 | 9-12  | Town hall 2   | Phil and Dan (online) | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                             | - | - |
@@ -54,8 +56,9 @@ Kursansvarlig og andre undervisere er:
 | Uke 44 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 45 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
 | Uke 46 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 47 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 48 | Eksamensforberedelse | Faglærer | Studenter |
+| Uke 47 | Jobb med rapport (ingen prosjektgruppemøte)  | Faglærer | Studenter |
+| *22.11.24 | Innlevering av mappe | - | Studenter |
+| Uke 48 | Prosjektgruppemøte | Faglærer | Studenter |
 | Uke 49 | Eksamensforberedelse | - | Studenter |
 | *09.12.24* | *Samling 3 og eksamen*  | - | - |
 | 9-12  | Town hall 3                | Phil and Dan (online) | Studenter, mentorer, problemeiere |
