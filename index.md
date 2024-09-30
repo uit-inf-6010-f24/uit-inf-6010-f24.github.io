@@ -65,6 +65,49 @@ Kursansvarlig og andre undervisere er:
 | 13-16 | Eksamen                      | - | - |
 | 18-   | Avslutningsmiddag            | - | - |
 
+## Samlinger
+
+**Samling 1:**
+20-21.08.24
+
+| Tidspunkt    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
+|-----------|-----------|----------------------|-----------|
+| ** | *Samling 1, Dag 1*           | - | - |
+| 9:00-9:15  | Introduksjon til kurset      | Lars Ailo | Alle |
+| 9:15-10:45 | Generering av utfordringer, valg av utfordringer og teambygging | Philippe and Dan | Studenter, mentorer, problemeiere |
+| 10:45-11:00 | Kaffe                       | - | Alle |
+| 11:00-12:15 | Hopscotch Canvas            | Phil and Dan | Studenter |
+| 12:15-13:00 | Lunsj                       | - | Alle |
+| 13:00-14:00 | Kobling av deltakere og utarbeidelse av handlingsplaner         | Philippe and Daniil | Studenter |
+| 14:00-15:00 | Kaffe / forberedning av presentasjoner                          | - | Alle |
+| 15:00-16:30 | Town Hall 1 - Presentasjon av handlingsplaner - Spørsmål og svar | Philippe and Daniil | Studenter, mentorer, problemeiere |
+| *21.08.24* | *Samling 1, Dag 2*           | - | - |
+| 8:15-9:00   |  Oppsummering av dag 1 og veien videre. Innføring i kreativitet med kreative oppgaver | Ildri | Studenter |
+| 9:00-9:15   | Kaffe                       | - | Alle |
+| 9:15-11:30  | Dypdykk / jobbe videre med oppdraget og problemstillingen | Ildri | Studenter |
+| 11:30-12:15 | Lunsj                                | - | Alle |
+| 12:15-15:30 | Idéjakt og testing| Ildri | Studenter |
+| 15:30-16:00 | Oppsummering av dagen og veien videre frem mot samling 2 | Ildri | Studenter |
+
+**Samling 2:**
+17.10.24
+
+| Tidspunkt    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
+|-----------|-----------|----------------------|-----------|
+| 9-12  | Town hall 2   | Philippe and Daniil (online) | Studenter, mentorer, problemeiere |
+| 12-13 | Lunsj                             | - | - |
+| 13:00-16:00 | ?  | - | - |
+
+**Samling 3:**
+09.12.24
+
+| Tidspunkt    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
+|-----------|-----------|----------------------|-----------|
+| 9-12  | Town hall 3                | Philippe and Daniil | Studenter, mentorer, problemeiere |
+| 12-13 | Lunsj                        | - | - |
+| 13-16 | Eksamen                      | - | - |
+| 18-   | Avslutningsmiddag            | - | - |
+
 # Arberidsoppgaver mellom samlingene
 
 TBA
