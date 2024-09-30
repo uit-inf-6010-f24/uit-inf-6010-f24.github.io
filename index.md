@@ -41,11 +41,10 @@ Kursansvarlig og andre undervisere er:
 | 11:30-12:15 | Lunsj                                | - | Alle |
 | 12:15-15:30 | Idéjakt og testing| Ildri | Studenter |
 | 15:30-16:00 | Oppsummering av dagen og veien videre frem mot samling 2 | Ildri | Studenter |
-| Uke 36 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 37 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 38 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
-| Uke 39 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 40 | Prosjektgruppemøte | Faglærer | Studenter |
+| 09.09.24 | Prosjektgruppemøte | Lars Ailo | Studenter |
+| 16.09.24 | Avlyst | Lars Ailo | Studenter |
+| 23.09.24 | Prosjektgruppemøte | Lars Ailo | Studenter |
+| 30.09.24 | Prosjektgruppemøte | Lars Ailo | Studenter |
 | Uke 41 | Forberedelse til samling 2 (ingen prosjektgruppemøte)| Faglærer | Studenter |
 | *17.10.24* | *Samling 2*           | - | - |
 | 9-12  | Town hall 2   | Phil and Dan (online) | Studenter, mentorer, problemeiere |
