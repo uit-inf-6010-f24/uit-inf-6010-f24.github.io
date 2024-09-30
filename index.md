@@ -45,19 +45,20 @@ Kursansvarlig og andre undervisere er:
 | 16.09.24 | Avlyst | Lars Ailo | Studenter |
 | 23.09.24 | Prosjektgruppemøte | Lars Ailo | Studenter |
 | 30.09.24 | Prosjektgruppemøte | Lars Ailo | Studenter |
-| Uke 41 | Forberedelse til samling 2 (ingen prosjektgruppemøte)| Faglærer | Studenter |
+| 07.10.24 | Forberedelse til samling 2 | Lars Ailo | Studenter |
+| 14.10.24 | Tema: generelt om entreprenørskap | Lars Ailo | Studenter |
 | *17.10.24* | *Samling 2*           | - | - |
 | 9-12  | Town hall 2   | Phil and Dan (online) | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                             | - | - |
 | 13:00-16:00 | ?  | - | - |
-| Uke 43 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 44 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 45 | Prosjektgruppemøte | Mentor/ faglærer | Studenter |
-| Uke 46 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 47 | Jobb med rapport (ingen prosjektgruppemøte)  | Faglærer | Studenter |
+| 21.10.24 | Tema: gruppe 3 | Gruppe 3 | Studenter |
+| 28.10.24 | Tema: gruppe 2 | Gruppe 2 | Studenter |
+| 04.11.24 | Tema: gruppe K | KH | Studenter |
+| 11.11.24 | Tema: gruppe H | H | Studenter |
+| 18.11.24 | Jobb med rapport (ingen prosjektgruppemøte)  | Faglærer | Studenter |
 | *22.11.24 | Innlevering av mappe | - | Studenter |
-| Uke 48 | Prosjektgruppemøte | Faglærer | Studenter |
-| Uke 49 | Eksamensforberedelse | - | Studenter |
+| 25.11.24 | Forberedelse til samling 3  | Lars Ailo | Studenter |
+| 02.12.24 | Forberedelse til samling 3  | Lars Ailo | Studenter |
 | *09.12.24* | *Samling 3 og eksamen*  | - | - |
 | 9-12  | Town hall 3                | Philippe and Daniil | Studenter, mentorer, problemeiere |
 | 12-13 | Lunsj                        | - | - |
