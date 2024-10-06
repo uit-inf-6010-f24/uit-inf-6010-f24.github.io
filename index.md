@@ -72,9 +72,11 @@ Kursansvarlig og andre undervisere er:
 
 | Tidspunkt    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
 |-----------|-----------|----------------------|-----------|
-| 9-12  | Town hall 2   | Philippe and Daniil (online) | Studenter, mentorer, problemeiere |
-| 12-13 | Lunsj                             | - | - |
-| 13:00-16:00 | ?  | - | - |
+| 8:15-8:30  | Coffee   | - | Everyone |
+| 8:30-8:45  | Day 2 introduction   | Lars Ailo|  Studenter |
+| 8:45-10:45 | Town hall 2   | Philippe and Daniil (online) | Studenter |
+| 11:30-12:00 | Lunsj        | - | - |
+| 12:00-16:00 | Toen hall 2 continued  | Ildri | Studenter, mentorer |
 
 **Samling 3:**
 09.12.24
