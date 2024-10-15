@@ -72,11 +72,17 @@ Kursansvarlig og andre undervisere er:
 
 | Tidspunkt    	| Innhold		| Foreleser/ ansvarlig | Deltakere |
 |-----------|-----------|----------------------|-----------|
-| 8:15-8:30  | Coffee   | - | Everyone |
+| 8:15-8:30  | Kaffe   | - | Alle |
 | 8:30-8:45  | Day 2 introduction   | Lars Ailo|  Studenter |
 | 8:45-10:45 | Town hall 2   | Philippe and Daniil (online) | Studenter |
-| 11:30-12:00 | Lunsj        | - | - |
-| 12:00-16:00 | Toen hall 2 continued  | Ildri | Studenter, mentorer |
+| 11:30-12:15 | Lunsj        | - | - |
+| 12:15-12:30 | Eksamen og hva som forventes | Lars Ailo | Studenter | 
+| 12:30-13:00 | Presentasjonsteknikk med øvelser og verktøy | Ildri | Studenter |
+| 13:00-13:15 | Kaffe | -  | Alle | 
+| 13:15-14:00 | Presentasjonsteknikk med øvelser og verktøy | Ildri | Studenter |
+| 14:00-14:15 | Kaffe | - | Alle |
+| 14:15-15:00 | Lage et utkast på presentasjon | Studenter | - | 
+| 15:00-15:30 | Presentere utkastet m/tilbakemeldinger | Studenter | Mentorer | 
 
 **Samling 3:**
 09.12.24
