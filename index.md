@@ -74,7 +74,7 @@ Kursansvarlig og andre undervisere er:
 |-----------|-----------|----------------------|-----------|
 | 8:15-8:30  | Kaffe   | - | Alle |
 | 8:30-8:45  | Day 2 introduction   | Lars Ailo|  Studenter |
-| 8:45-10:45 | Town hall 2   | Philippe and Daniil (online) | Studenter |
+| 8:45-11:30 | Town hall 2   | Philippe and Daniil (online) | Studenter |
 | 11:30-12:15 | Lunsj        | - | - |
 | 12:15-12:30 | Eksamen og hva som forventes | Lars Ailo | Studenter | 
 | 12:30-13:00 | Presentasjonsteknikk med øvelser og verktøy | Ildri | Studenter |
