@@ -75,6 +75,14 @@ Kursansvarlig og andre undervisere er:
 | 8:15-8:30  | Kaffe   | - | Alle |
 | 8:30-8:45  | Day 2 introduction   | Lars Ailo|  Studenter |
 | 8:45-11:30 | Town hall 2   | Philippe and Daniil (online) | Studenter |
+| 08:30-08:40 | Session opening / housekeeping | Lars Ailo | Alle |
+| 08:40-09:00 | Participants share their entrepreneurial experience thus far | Philippe and Daniil (online) | Studenter |
+| 09:00-09:50	| Teams and individuals update their Hopscotch Canvas © | Philippe and Daniil (online) | Studenter |
+| 09:50-10:00	| Coffee break | - | - |
+| 10:00-10:15	| Mentors and participants comment on canvases (web platform) | Philippe and Daniil (online) | Studenter |
+| 10:15-10:45	| Teams & individuals briefly present / class discussion | Philippe and Daniil (online) | Studenter |
+| 10:45-11:00	| Reflections and wishes for the remainder of the course | Philippe and Daniil (online) | Studenter |
+| 11:00-11:15	| Hopscotch Canvas © platform feedback | Philippe and Daniil (online) | Studenter |
 | 11:30-12:15 | Lunsj        | - | - |
 | 12:15-12:30 | Eksamen og hva som forventes | Lars Ailo | Studenter | 
 | 12:30-13:00 | Presentasjonsteknikk med øvelser og verktøy | Ildri | Studenter |
