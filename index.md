@@ -102,11 +102,12 @@ Kursansvarlig og andre undervisere er:
 | 13-16 | Eksamen                      | - | - |
 | 18-   | Avslutningsmiddag            | - | - |
 
-# Arberidsoppgaver mellom samlingene
-
-TBA
 
 ## Pensum og støttelitteratur
 
-1.
+Se Teams rommet.
+
+## Rapport of muntlig eksamen
+
+[Forslag til struktur](Eksamen INF-6010.pdf).
 
