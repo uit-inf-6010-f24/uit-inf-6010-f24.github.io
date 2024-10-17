@@ -83,7 +83,7 @@ Kursansvarlig og andre undervisere er:
 | 10:15-10:45	| Teams & individuals briefly present / class discussion | Philippe and Daniil (online) | Studenter |
 | 10:45-11:00	| Reflections and wishes for the remainder of the course | Philippe and Daniil (online) | Studenter |
 | 11:00-11:15	| Hopscotch Canvas © platform feedback | Philippe and Daniil (online) | Studenter |
-| 11:30-12:15 | Lunsj        | - | - |
+| 11:15-12:15 | Lunsj        | - | - |
 | 12:15-12:30 | Eksamen og hva som forventes | Lars Ailo | Studenter | 
 | 12:30-13:00 | Presentasjonsteknikk med øvelser og verktøy | Ildri | Studenter |
 | 13:00-13:15 | Kaffe | -  | Alle | 
