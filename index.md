@@ -109,5 +109,5 @@ Se Teams rommet.
 
 ## Rapport of muntlig eksamen
 
-[Forslag til struktur](Eksamen INF-6010.pdf).
+[Forslag til struktur](EksamenINF-6010.pdf).
 
